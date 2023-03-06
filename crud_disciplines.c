@@ -2,10 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define MAXLEN 100
-/*
-Nomes: 	Lucas Fracaro Nunes 		GRR20221125
-	Lucas Henrique Ramos Cazionato	GRR20221122 
-*/
+
 FILE *arquivo;
 char nomeArquivo[100] = "disciplinas.txt";
 int w[7]={8,10,7,7,59,5,12}; //Usado para configurar espaçamento das colunas
